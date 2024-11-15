@@ -15,9 +15,7 @@
         <activity
             android:name=".itemlistview"
             android:exported="false" />
-        <activity
-            android:name=".costomListView"
-            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
